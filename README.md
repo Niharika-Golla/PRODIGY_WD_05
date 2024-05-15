@@ -11,8 +11,6 @@ This is a simple weather application that allows users to get the current weathe
 2. Click on the "Get Weather" button to fetch the weather information.
 3. The weather information will be displayed below the input field.
 
-### Preview:
-![Weather App Preview](preview.png)
 
 ### Installation:
 1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
